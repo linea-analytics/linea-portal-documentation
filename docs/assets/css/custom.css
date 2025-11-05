@@ -40,14 +40,18 @@ code {
 }
 
 .sidebar-toggle .sidebar-toggle-button{
-  background-color: #c2f5eb;
+  background-color: #111C28;
 }
 
 .sidebar-subheader {
   margin: 0;
-  color: #000000;
+  color: white;
   font-weight: 400;
   text-align: center;
+}
+
+.sidebar-nav{
+  color: white;
 }
 
 
@@ -55,8 +59,11 @@ code {
 @media (prefers-color-scheme: dark) {
   :root {
     --theme-color: #111C28;
-    --sidebar-toggle-offset-left: 1rem;
     --cover-background-color: #21caab;
-    --sidebar-background: #c2f5eb;
+    --sidebar-toggle-offset-left: 1rem;
+    --sidebar-toggle-icon-color: white;
+    --sidebar-background: #111C28;
+    --sidebar-nav-link-color--active: #21caab;
+    --sidebar-nav-link-color: white;
   }
 }
