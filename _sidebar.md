@@ -1,6 +1,6 @@
 - Getting Started
-  - [Home](/)
-  - [Quick Start](guides/getting-started.md)
-  - [Tips & Tricks](guides/tips-and-tricks.md)
+  - [Home](./)
+  - [Quick Start](./guides/getting-started.md)
+  - [Tips & Tricks](./guides/tips-and-tricks.md)
 - API
-  - [Reference](api/reference.md)
+  - [Reference](./api/reference.md)

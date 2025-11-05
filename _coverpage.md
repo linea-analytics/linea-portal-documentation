@@ -8,5 +8,5 @@
 - Works on GitHub Pages/Netlify
 - Uses Bulma/Bootstrap (optional)
 
-[Get Started](guides/getting-started.md)
-[Client Portal](https://app.linea-analytics.com/)
+[Get Started](./guides/getting-started.md)
+[Client Portal](./https://app.linea-analytics.com/)
