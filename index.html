@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Your Docs</title>
+
+    <!-- optional: themeable for easy tweaks with CSS variables -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple.css">
+
+    <!-- your tiny overrides -->
+    <link rel="stylesheet" href="assets/css/custom.css">
+  </head>
+  <body>
+    <!-- docsify mounts here -->
+    <div id="app" class="section container">Loading…</div>
+
+    <!-- config MUST load before docsify -->
+    <script src="assets/js/config.js"></script>
+
+    <!-- docsify core + plugins via CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <!-- optional: tabs & mermaid diagrams -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs/dist/docsify-tabs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-mermaid@2/dist/docsify-mermaid.min.js"></script>
+
+    <!-- your small custom plugin hooks -->
+    <script src="assets/js/plugins.js"></script>
+  </body>
+</html>

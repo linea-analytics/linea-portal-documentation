@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+/* Global font for all regular text */
+
+.navbar,
+.sidebar,
+.sidebar-nav,
+.app-name {
+  font-family: 'Montserrat', sans-serif;
+}
+
+pre,
+code {
+  font-family: monospace !important;
+}
+
+
+/* Ensure headings also use Montserrat */
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/* tweak page width a bit */
+.markdown-section {
+  max-width: 900px;
+  /* comfortable line length */
+}
+
+/* optional: light spacing for headings */
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3 {
+  margin-top: 1.25em;
+}
+
+.sidebar-toggle .sidebar-toggle-button{
+  background-color: #c2f5eb;
+}
+
+.sidebar-subheader {
+  margin: 0;
+  color: #000000;
+  font-weight: 400;
+  text-align: center;
+}
+
+
+/* optional: dark mode (quick demo, extend if you like) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --theme-color: #111C28;
+    --sidebar-toggle-offset-left: 1rem;
+    --cover-background-color: #21caab;
+    --sidebar-background: #c2f5eb;
+  }
+}
