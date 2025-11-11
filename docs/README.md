@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Scenario Tool** helps marketing teams optimise their media budget allocation across channels and campaigns. It uses advanced analytics and Marketing Mix Modeling (MMM) to provide data-driven recommendations.
+The [**Scenario Tool**](https://app.linea-analytics.com/) helps marketing teams optimise their media budget allocation across channels and campaigns. It uses advanced analytics and Marketing Mix Modeling (MMM) to provide data-driven recommendations.
 
 ## Features
 
