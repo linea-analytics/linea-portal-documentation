@@ -1,6 +1,6 @@
 - Getting Started
   - [Home](./)
   - [Quick Start](./guides/getting-started.md)
-  - [Tips & Tricks](./guides/tips-and-tricks.md)
+  - [About the Scenario Tool](./guides/about-the-scenario-tool.md)
 - API
   - [Reference](./api/reference.md)
