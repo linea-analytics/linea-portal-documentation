@@ -1,6 +1,6 @@
 # Scenario API
 
-The functionality of the Scenario Tool are also available as an API. This will allow you to integrate the speed and flexibility of the **Scenario Tool** directly into your existing processes. 
+The functionality of the **Scenario Tool** are also available as an API. This will allow you to integrate the speed and flexibility of the **Scenario Tool** directly into your existing processes. 
 
 ## Modelling
 

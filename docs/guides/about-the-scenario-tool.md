@@ -1,28 +1,28 @@
 # About the Scenario Tool
 
-This page covers example use cases for the **Scenario Tool** as well as some technical information reagrding how optimisations and the Scenario Tool function.
+This page covers example use cases for the **Scenario Tool** as well as some technical information reagrding how optimisations, and the Scenario Tool, function.
 
 ## Use cases
 
 Here we collate 5 potential or common use cases. 
 
-### **a) I have an allocated budget. How much revenue or new customers will it deliver?**
+### a) I have an allocated budget. How much revenue or new customers will it deliver?
 
 Run an **optimised budget**. Set the **minimum and maximum spend levels to be identical** (the allocated amount). Use wider constraints (as set out in Section 2.c) to demonstrate how changes in external factors could impact the performance of your media.
 
-### **b) I have a budget of £5m for next year, how do I spend this?**
+### b) I have a budget of £5m for next year, how do I spend this?
 
 Run an “**optimised budget**”. Set the total budget level to **£5m** and run the scenario. Set looser constraints to reflect how external changes can impact the expected return.
 
-### **c) I have an extra £1m to spend next quarter. How do I best spend this?**
+### c) I have an extra £1m to spend next quarter. How do I best spend this?
 
 Run an “**optimised budget**”. Define the **minimum spend levels** for all already allocated channels. Set the *total* budget at your existing minimum plus the **£1m incremental spend**. Run the scenario to identify the best way to spend the incremental amount while respecting existing commitments.
 
-### **d) How do I hit 10k new customers or £1m of media-driven revenue?**
+### d) How do I hit 10k new customers or £1m of media-driven revenue?
 
 Run a “**generate uplift**”. Set the goal as your target revenue or customers within your desired time period. Use the wider constraints to reflect how external changes could make it easier or more difficult to achieve your goals.
 
-### **e) What happens if the economy or market for our product increases by 10% next year?**
+### e) What happens if the economy or market for our product increases by 10% next year?
 
 Run an “**Optimised Budget**” or a “**Generate uplift**” and, in the last step when creating the scenario, set the “**Synergy**” overlay to \+10%. This would represent an improvement in the relevant external factor (e.g., industry seasonality, economic trends). This scenario can then be compared to other scenarios to see the impact of these improved conditions on budget allocation and expected returns.
 
@@ -49,11 +49,9 @@ Optimisations are mathematical operations based on the response curves estimated
 
 ### **Algorithm**
 
-Linea **Scenario Tool**takes the media response curves and then allocates budget to the channel with the highest marginal ROI / CPA. Marginal ROI is the return of the next £/$/€ spent, calculated as the: 
+Linea **Scenario Tool** uses the media response curves to generate the optimal budget allocation. The objective of the optimisation is to maximise ***net uplift**. The proprietary algorithm developed by the Linea team runs significatly faster than other optimisation solutions. 
 
-<img src="./guides/img/formula-marginal-roi.png" alt="marginal-roi-formula">
-
-Δ \= Delta or change
+**net uplift = uplift - spend*
 
 ### **Constraints**
 

@@ -1,10 +1,10 @@
 # Scenario Tool Documentation
 
-> A comprehensive guide to using the Linea Analytics Scenario Tool for marketing budget optimisation.
+> A comprehensive guide to using the Linea Analytics **Scenario Tool** for marketing budget optimisation.
 
 ## Overview
 
-The **Scenario Tool**helps marketing teams optimise their media budget allocation across channels and campaigns. It uses advanced analytics and Marketing Mix Modeling (MMM) to provide data-driven recommendations.
+The **Scenario Tool** helps marketing teams optimise their media budget allocation across channels and campaigns. It uses advanced analytics and Marketing Mix Modeling (MMM) to provide data-driven recommendations.
 
 ## Features
 
@@ -24,5 +24,5 @@ The **Scenario Tool**helps marketing teams optimise their media budget allocatio
 
 ## Support
 
-For questions or support with the Scenario Tool, contact:
+For questions or support with the **Scenario Tool**, contact:
 [info@linea-analytics.com](mailto:info@linea-analytics.com)

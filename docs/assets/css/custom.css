@@ -39,7 +39,7 @@ code {
   margin-top: 1.25em;
 }
 
-.sidebar-toggle .sidebar-toggle-button{
+.sidebar-toggle .sidebar-toggle-button {
   background-color: #111C28;
 }
 
@@ -50,8 +50,17 @@ code {
   text-align: center;
 }
 
-.sidebar-nav{
+.sidebar-nav {
   color: #ababab;
+}
+
+
+.sidebar .search a {
+  color: white;
+}
+
+.sidebar .search a  h2 {
+  color: #21caab;
 }
 
 
@@ -65,5 +74,6 @@ code {
     --sidebar-background: #111C28;
     --sidebar-nav-link-color--active: #21caab;
     --sidebar-nav-link-color: white;
+    --search-result-heading-color: #21caab;
   }
 }
