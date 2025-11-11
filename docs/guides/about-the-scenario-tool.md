@@ -40,8 +40,8 @@ Media response curves can vary depending on the model. Some examples are below:
 
 | Functional Form | Detail | Notes |
 | :---- | :---- | :---- |
-| ![][image1] | x \= media spend (or GRPs, impressions, etc.)<br>α\>0 \= shape parameter (controls steepness/curvature)<br> β\>0 \= half-saturation point (spend level at 50% of saturation) | S-shape curves. Two parameters need to be estimated to define the shape of the curve. Suitable for channels that don’t perform well at lower spend levels. |
-| ![][image2] | x \= media spend <br> λ = diminishing retuns rate (curvature) | Concave curve. Just one parameter needs to be estimated to define the shape of the curve. Suitable for most applications. |
+| ![][image1] | x \= media spend (or GRPs, impressions, etc.)<br><br>α\>0 \= shape parameter (controls steepness/curvature)<br><br> β\>0 \= half-saturation point (spend level at 50% of saturation) | S-shape curves. Two parameters need to be estimated to define the shape of the curve. Suitable for channels that don’t perform well at lower spend levels. |
+| ![][image2] | x \= media spend <br><br> λ = diminishing retuns rate (curvature) | Concave curve. Just one parameter needs to be estimated to define the shape of the curve. Suitable for most applications. |
 
 ### **Historic Media Spends**
 
