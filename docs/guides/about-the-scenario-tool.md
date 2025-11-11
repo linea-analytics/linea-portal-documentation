@@ -49,7 +49,7 @@ Optimisations are mathematical operations based on the response curves estimated
 
 ### **Algorithm**
 
-Linea Scenario Tool takes the media response curves and then allocates budget to the channel with the highest marginal ROI / CPA. Marginal ROI is the return of the next £/$/€ spent, calculated as the: 
+Linea **Scenario Tool**takes the media response curves and then allocates budget to the channel with the highest marginal ROI / CPA. Marginal ROI is the return of the next £/$/€ spent, calculated as the: 
 
 <img src="./guides/img/formula-marginal-roi.png" alt="marginal-roi-formula">
 
