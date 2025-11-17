@@ -67,16 +67,29 @@ For example:
      
 4. **Multiplier**: Used to represent a change in expected channel performance. Typical uses include overlaying expected **cost inflation** on a media channel or applying a factor to reflect anticipated **performance improvements** (e.g., due to creative changes or better targeting).
 
-### **Synergy**
-
-**Synergy of Market / Economic factor**: Where the interaction or synergy between media and wider market/economic factors has been measured, this input allows users to model changes to that synergy. You can:
-
-* Add a **fixed percentage** to represent a sustained increase or decrease in synergy (e.g., modelling a market increase of 10% for the entire quarter).  
-* Overlay a specific **weekly adjustment**, allowing you to change the values to exactly match forecasts or specific conditions for the scenario. These can be uploaded as an Excel or CSV file.
-
 ### **New Channels**
 
 The **Scenario Tool** will run optimisations using the curves estimated in the MMM models provided. If a new channel is about to be introduced into the mix, the new channel can also be included in the optimisations. Please contact the Linea team for a bespoke build at [info@linea-analytics.com](mailto:info@linea-analytics.com).
+
+
+
+## Synergy
+
+The impact of marketing campaigns can be tied to external factors. Here are a few examples.
+
+- **Fintech**: Will the campaign perform as well if the stock market is dipping?
+- **Travel & Hospitality**: Will the campaign perform as well if economic uncertainty reduces holiday travel?
+- **E-commerce/Retail**: Will the campaign perform as well if supply-chain delays limit product availability?
+
+Where the interaction or synergy between media and wider market/economic factors has been measured, the **Scenario Tool** allows users to plan for different conditions:
+
+* Add a **fixed percentage** to represent a sustained increase or decrease in synergy (e.g., planning for a market increase of 10% for the entire quarter).  
+* Overlay a specific **weekly adjustment**, allowing you to change the values to exactly match forecasts or specific conditions for the scenario. These can be uploaded as Excel and CSV files, or via direct API connections.
+
+
+<figure  class="p-5">
+  <img src="./guides/img/inputs-synergy.png" width="100%" class="rounded" alt="screenshot setting the synergy variable to include in the optimisation">
+</figure>
 
 
 

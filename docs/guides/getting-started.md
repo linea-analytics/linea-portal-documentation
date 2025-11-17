@@ -2,7 +2,7 @@
 
 This page helps navigate the interface of the **Scenario Tool**, providing information for each step of the way, on top of the existing information present on the platform. 
 
-## 1. Define Your Objective
+## Define Your Objective
 
 <figure  class="p-5">
   <img src="./guides/img/inputs-goal-name.png" width="100%" class="rounded" alt="screenshot setting the type of optimisation to run">
@@ -17,7 +17,7 @@ A one-size-fits-all approach to budget allocation simply doesn't work. Your mark
 
 **net uplift = uplift - spend*
 
-## 2. Set the Time Period: 
+## Set the Time Period
 
 <figure  class="p-5">
   <img src="./guides/img/inputs-period-length.png" width="100%" class="rounded" alt="screenshot setting the optimisation period length">
@@ -27,11 +27,11 @@ The simplest element to understand\! Our tool allows you to run scenarios for di
 
 This flexibility is critical for both short-term tactical adjustments and longer-term annual planning.
 
-## 3. What-If Factors:
+## What-If Factors
 
 This is where the Linea Analytics platform offers flexibility. Our tool goes far beyond simple budget sliders, giving you granular control over the variables that matter most to your business.
 
-#### **Channels and Campaigns to Include:** 
+#### **Channels and Campaigns to Include** 
 
 <figure  class="p-5">
   <img src="./guides/img/inputs-channel-select.png" width="100%" class="rounded" alt="screenshot setting the channels to include in the optimisation">
@@ -39,7 +39,7 @@ This is where the Linea Analytics platform offers flexibility. Our tool goes far
 
 You have the flexibility to select which channels or even specific campaigns to include or exclude from a scenario. This is vital for **Long-Term vs. Short-Term Goals**. You can focus your allocation on brand-building channels that drive long-term impact or on performance channels for immediate results. Or select all and let past performance decide.
 
-#### **Impact of Future Changes for specific channels.** 
+#### **Impact of Future Changes for specific channels** 
 
 <figure  class="p-5">
   <img src="./guides/img/inputs-constraints.png" width="100%" class="rounded" alt="screenshot setting the channel constraints and multipliers to include in the optimisation">
@@ -57,7 +57,7 @@ Setting the multiplier values:
 * A multiplier of **1.1**: Reflects a 10% **increase** in the impact of that channel, e.g. a 10% increase in creative efficiency   
 * A multiplier of **0.9**: Reflects a 10% **reduction** in the impact of that channel, e.g. a 10% cost inflation
 
-#### **Impact of Future Changes:** 
+#### **Impact of Future Changes** 
 
 <figure  class="p-5">
   <img src="./guides/img/inputs-synergy.png" width="100%" class="rounded" alt="screenshot setting the synergy variable to include in the optimisation">
@@ -71,7 +71,7 @@ Predicting the future is impossible, but with our scenario tool, you can prepare
 
 We recommend running multiple scenarios with different assumptions, you can build a comprehensive understanding of potential outcomes, mitigating risk and presenting a range of options to wider teams.
 
-## 4. Inspect Results and Compare Scenarios
+## Inspect Results
 
 After the inputs have been provided, the scenario will be ready to run. Whether you've set a target budget or a desired acquisition number, the **Scenario Tool** instantly provides an optimised media mix recommendation.
 
