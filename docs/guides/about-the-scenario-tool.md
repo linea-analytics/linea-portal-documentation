@@ -1,6 +1,6 @@
 # About the Scenario Tool
 
-This page covers example use cases for the **Scenario Tool** as well as some technical information reagrding how optimisations, and the Scenario Tool, function.
+This page covers example use cases for the **Scenario Tool** as well as some technical information regarding how optimisations, and the Scenario Tool, function.
 
 ## Use cases
 
@@ -41,7 +41,7 @@ Media response curves can vary depending on the model. Some examples are below:
 | Functional Form | Detail | Notes |
 | :---- | :---- | :---- |
 | ![][image1] | x \= media spend (or GRPs, impressions, etc.)<br><br>α\>0 \= shape parameter (controls steepness/curvature)<br><br> β\>0 \= half-saturation point (spend level at 50% of saturation) | S-shape curves. Two parameters need to be estimated to define the shape of the curve. Suitable for channels that don’t perform well at lower spend levels. |
-| ![][image2] | x \= media spend <br><br> λ = diminishing retuns rate (curvature) | Concave curve. Just one parameter needs to be estimated to define the shape of the curve. Suitable for most applications. |
+| ![][image2] | x \= media spend <br><br> λ = diminishing returns rate (curvature) | Concave curve. Just one parameter needs to be estimated to define the shape of the curve. Suitable for most applications. |
 
 ### **Historic Media Spends**
 
@@ -49,7 +49,7 @@ Optimisations are mathematical operations based on the response curves estimated
 
 ### **Algorithm**
 
-Linea **Scenario Tool** uses the media response curves to generate the optimal budget allocation. The objective of the optimisation is to maximise ***net uplift**. The proprietary algorithm developed by the Linea team runs significatly faster than other optimisation solutions. 
+Linea **Scenario Tool** uses the media response curves to generate the optimal budget allocation. The objective of the optimisation is to maximise ***net uplift**. The proprietary algorithm developed by the Linea team runs significantly faster than other optimisation solutions. 
 
 **net uplift = uplift - spend*
 
@@ -61,7 +61,7 @@ For example:
 
 1. **Weeks Active**: For **always-on channels**, set this to the maximum number of weeks in the period. For **non-consistent channels**, the Scenario Tool defaults the value to the length of the historic scenario period, but you can increase or decrease this as appropriate to reflect expected flight.  
      
-2. **Min Spend**: Used to enforce a specific minimum amount of spend that must be allocated to a channel. This is often necessary for spending upweight scenarios or respecting fixed media commitments.  
+2. **Min Spend**: Used to enforce a specific minimum amount of spend that must be allocated to a channel. This is often necessary for spending up weight scenarios or respecting fixed media commitments.  
      
 3. **Max Spend**: Used to enforce a specific maximum amount of spend that can be allocated to a channel.  
      
