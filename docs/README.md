@@ -12,12 +12,12 @@ The [**Linea Client Portal**](https://app.linea-analytics.com/) gives marketing 
 ## MMM Onboarding
 
 - [MMM Onboarding](guides/onboarding.md) - How to connect your data sources and authenticate APIs
-- [API Reference](api/reference.md) - Technical details on the Scenario API
 
 ## Scenario Tool
 
 - [Getting Started](guides/getting-started.md) - Learn how to use the Scenario Tool interface
 - [About the Scenario Tool](guides/about-the-scenario-tool.md) - How it works and key use cases
+- [API Reference](api/reference.md) - Technical details on the Scenario API
 
 ## Support
 
