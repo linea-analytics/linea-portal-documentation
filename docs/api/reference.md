@@ -4,7 +4,7 @@ The functionality of the **Scenario Tool** are also available as an API. This wi
 
 ## Modelling
 
-Speed up your current modelling capabilities by calling the **Scenario API** directly from your own code base and/or modelling tools. 
+Speed up your current modelling capabilities by calling the **Modelling API** directly from your own code base and/or modelling tools. 
 
 ## Planning
 
