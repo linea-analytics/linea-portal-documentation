@@ -1,6 +1,15 @@
-# Getting Started
+# Getting Started 
 
-This page helps navigate the interface of the **Scenario Tool**, providing information for each step of the way, on top of the existing information present on the platform. 
+Welcome to the **Linea Client Portal** documentation. These guides cover the two core areas of the portal:
+
+- **[MMM Onboarding](./guides/onboarding.md)** - How to connect your data sources, authenticate APIs, and understand the onboarding process from raw data to live insights.
+- **[The Scenario Tool](./guides/about-the-scenario-tool.md)** - How to use the Scenario Tool to run budget optimisations, model what-if scenarios, and plan your media mix.
+
+---
+
+## Using the Scenario Tool
+
+This section helps navigate the interface of the **Scenario Tool**, providing information for each step of the way, on top of the existing information present on the platform.
 
 ## Define Your Objective
 

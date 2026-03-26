@@ -1,6 +1,7 @@
 - Getting Started
   - [Home](./)
   - [Getting Started](./guides/getting-started.md)
+  - [MMM Onboarding](./guides/onboarding.md)
   - [About the Scenario Tool](./guides/about-the-scenario-tool.md)
 - API
   - [Reference](./api/reference.md)
